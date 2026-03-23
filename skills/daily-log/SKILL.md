@@ -3,7 +3,7 @@ name: daily-log
 description: Generate a detailed daily learning journal entry from today's work, written to be both a personal log and a publishable blog post. Run at the end of each day.
 ---
 
-Generate a rich end-of-day journal entry for the wookie project. The entry should be detailed enough to serve as a blog post draft.
+Generate a rich end-of-day journal entry for the project. The entry should be detailed enough to serve as a blog post draft.
 
 ## Step 1 — Gather the day's raw material
 
@@ -42,7 +42,7 @@ The entry must follow this structure:
 ```markdown
 # [Evocative title that captures today's essence — not just "Day N"]
 
-*[Project: wookie — lab data capture system]*
+*[Project: <your-project-name>]*
 
 ## The Day in One Paragraph
 
